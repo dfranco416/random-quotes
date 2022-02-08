@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/dfranco416/random-quotes.git"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
